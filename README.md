@@ -12,7 +12,7 @@ Using **Terraform**, AWS resources like VPC, Subnets, S3 bucket, RDS, EC2, Auto 
 
 ### INFRASTRUCTURE AS CODE
 
-<img alt="IaaC" src="https://github.com/aelinadas/aws-infrastructure/blob/main/images/Lambda.png" />
+<img alt="IaaC" src="https://github.com/aelinadas/aws-infrastructure/blob/main/images/Infrastructure.png" />
 
 ---
 
