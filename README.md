@@ -4,7 +4,7 @@
 
 The purpose of infrastructure as code is to enable developers or operations teams to automatically manage, monitor and provision resources, rather than manually configure discrete hardware devices and operating systems.
 Infrastructure as code is sometimes referred to as programmable or software-defined infrastructure.
-This repository is to build the infrastructure required for hosting my Online Bookstore i.e. https://github.com/aelinadas/bookstore
+This repository is to build the infrastructure required for hosting webapp [Bookstore](https://github.com/aelinadas/bookstore)
 
 Using **Terraform**, AWS resources like VPC, Subnets, S3 bucket, RDS, EC2, Auto Scaling, Elastic Load Balancer, etc. are provisioned.
 
